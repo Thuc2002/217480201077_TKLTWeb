@@ -1,0 +1,21 @@
+h1 {
+    color: red;
+}
+h2 {
+    color: aqua;
+}
+h3 {
+    color: aquamarine;
+}
+div p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 26;
+    font-weight: bold;
+    
+}
+#huhu {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12;
+    font-weight: bold;
+    color: goldenrod;
+}
