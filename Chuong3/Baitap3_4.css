@@ -1,0 +1,17 @@
+table, th, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 20;
+    font-family: 'Times New Roman', Times, serif;
+    size: 14;
+    font-weight: bold;
+}
+#sang{
+    background-color: brown;
+}
+#chieu{
+    background-color: aqua;
+}
+th{
+    background-color: antiquewhite;
+}
