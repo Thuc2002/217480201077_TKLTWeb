@@ -11,17 +11,20 @@ h1{
     font-size: 13pt;
     color: black;
     list-style: circle;
+    font-weight: normal;
 }
 #nam2{
     list-style:square ;
     font-family: Tahoma;
     color: black;
     font-size: 13pt;
+    font-weight: normal;
 }
 #nam3{
     list-style: disc;
     font-family: 'Times New Roman';
     font-size: 13pt;
+    font-weight: normal;
     color: black;
 }
 #thi{
@@ -39,4 +42,7 @@ h1{
     font-style: italic;
     font-weight: normal;
     font-size: 13pt;
+}
+ol{
+    font-weight: bold;
 }

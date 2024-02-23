@@ -1,0 +1,19 @@
+
+.tong{
+    width: 100%;
+    height: 30vh;
+}
+.trai{
+    float: left;
+    width: 20%;
+    background-color: blueviolet;
+    height: 30vh;
+    font-size: 20px;
+}
+.phai{
+    float: left;
+    width: 80%;
+    background-color: aqua;
+    height: 30vh;
+    font-size: 20px;
+}
