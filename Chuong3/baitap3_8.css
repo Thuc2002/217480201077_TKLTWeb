@@ -22,13 +22,3 @@ ul {
   li a:hover {
     background-color:aqua;
   }
-.tata{
-    float: right;
-    display:block;
-    overflow:hidden;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-}
